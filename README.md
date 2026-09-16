@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 # Lyra - Smart Contracts
 [![CI](https://github.com/lyra-finance/lyra/actions/workflows/run-test.yml/badge.svg)](https://github.com/lyra-finance/lyra/actions/workflows/run-test.yml)
 [![codecov](https://codecov.io/gh/lyra-finance/lyra/branch/master/graph/badge.svg?token=PQZNKHH63H)](https://codecov.io/gh/lyra-finance/lyra)
